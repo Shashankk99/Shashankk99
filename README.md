@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shashankk99
-- 👀 I’m currently pursuing my Masters in Artificial Intelligence
+- 👀 I’m currently pursuing my Masters in Applied Artificial Intelligence
 - 🌱 I currently hold Masters degree in Computer Applications
 - 💞️ Open for collaborating on Data Science projects
 - 📫 How to reach me - Email me at svchaturvedi9@gmail.com 
