@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shashankk99
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Computer Applications (Masters)
-- 💞️ I’m looking to collaborate on front-end development as of now
+- 👀 I’m currently pursuing my Masters in Artificial Intelligence
+- 🌱 I currently hold Masters degree in Computer Applications
+- 💞️ Open for collaborating on Data Science projects
 - 📫 How to reach me - Email me at svchaturvedi9@gmail.com 
 
 <!---
