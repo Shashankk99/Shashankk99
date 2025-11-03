@@ -4,6 +4,8 @@
 - 💞️ Open for collaborating on Data Science projects
 - 📫 How to reach me - Email me at svchaturvedi9@gmail.com
 
+### 🏅 Hacktoberfest & Holopin Badges
+
 [![@shashankk99's Holopin board](https://holopin.io/api/user/board?user=shashankk99)](https://holopin.io/@shashankk99)
 
 <!---
