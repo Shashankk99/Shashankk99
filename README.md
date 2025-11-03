@@ -4,10 +4,6 @@
 - 💞️ Open for collaborating on Data Science projects
 - 📫 How to reach me - Email me at svchaturvedi9@gmail.com
 
-### 🏅 Hacktoberfest & Holopin Badges
-
-[![An image of @shashankk99's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shashankk99)](https://holopin.io/@shashankk99)
-
 <!---
 Shashankk99/Shashankk99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
